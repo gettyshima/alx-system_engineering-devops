@@ -3,3 +3,4 @@
 1-listit : list contents of directory
 2-bring_me_home : changes present directory to home directory
 
+3-listfiles : long listing of files
