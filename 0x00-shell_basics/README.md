@@ -13,3 +13,4 @@
 10-back : move to the previous directory
 11-lists : long list files in current, parent and a different directory
 12-file_type : lidt the type of file
+13-symbolic_link : creates a symbolic link
