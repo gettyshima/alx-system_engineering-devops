@@ -7,3 +7,5 @@
 4-listmorefiles : list content of current directory including those that start with .
 5-listfilesdigitonly : list content with user and group ID including files that start with.
 6-firstdirectory: make directory in /tmp/
+7-movethatfile : move file from one directory to another
+8-firstdelete : delete file from a directory
