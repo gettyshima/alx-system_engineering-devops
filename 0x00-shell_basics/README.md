@@ -4,3 +4,4 @@
 2-bring_me_home : changes present directory to home directory
 
 3-listfiles : long listing of files
+4-listmorefiles : list content of current directory including those that start with .
