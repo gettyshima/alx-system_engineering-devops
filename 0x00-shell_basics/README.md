@@ -11,3 +11,4 @@
 8-firstdelete : delete file from a directory
 9-firstdirdeletion : delete directory
 10-back : move to the previous directory
+11-lists : long list files in current, parent and a different directory
