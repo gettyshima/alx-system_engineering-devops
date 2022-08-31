@@ -5,3 +5,4 @@
 
 3-listfiles : long listing of files
 4-listmorefiles : list content of current directory including those that start with .
+5-listfilesdigitonly : list content with user and group ID including files that start with.
