@@ -17,3 +17,4 @@
 14-copy_html : copies all html files that are not in parent directory
 100-lets_move : move all files starting with uppercase
 101-clean_emacs : deletes all files that end with ~
+102-tree : makes a directory with it,s subdirectories
