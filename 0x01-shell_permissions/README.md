@@ -10,3 +10,5 @@
 8-James_Bond : remove all permissions from user and group, and give all permissions to others
 9-John_Doe : set user to rwx, groups to rx, and others to wx
 10-mirror_permissions : sets the mode of the file to be same as olleh
+11-directories_permissions : adds execute permission to all subdirectories of the current directory for the owner, the group owner and all other users. Regular files are not changed
+
