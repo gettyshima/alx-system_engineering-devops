@@ -12,4 +12,5 @@
 10-mirror_permissions : sets the mode of the file to be same as olleh
 11-directories_permissions : adds execute permission to all subdirectories of the current directory for the owner, the group owner and all other users. Regular files are not changed
 12-directory_permissions : create directory with specified permission
+13-change_group : changes group owner to school
 
