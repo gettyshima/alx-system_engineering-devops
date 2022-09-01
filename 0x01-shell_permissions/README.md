@@ -4,3 +4,4 @@
 2-groups : prints all groups the current user is part of
 3-new_owner : changes owner of file to betty
 4-empty : creates empty file
+5-execute : gives execute command to owner
