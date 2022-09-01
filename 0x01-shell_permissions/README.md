@@ -13,4 +13,5 @@
 11-directories_permissions : adds execute permission to all subdirectories of the current directory for the owner, the group owner and all other users. Regular files are not changed
 12-directory_permissions : create directory with specified permission
 13-change_group : changes group owner to school
+100-change_owner_and_group : change the owner to vincet and group to staff for all files and directories in pwd
 
