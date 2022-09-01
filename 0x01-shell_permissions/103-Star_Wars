@@ -1,2 +1,3 @@
 #!/bin/bash
-t
+telnet towel.blinkenlights.nl
+
